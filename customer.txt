@@ -1,0 +1,7 @@
+isim,soyisim,boy,username,password,aktif,giriş zamanı,hesapları
+osman,yaycioglu,200,osmanyay,pass123,true,2022-10-01 10:11:00,TL#100;DOLAR#1000;EURO#3000
+ali,alas,176,aliveli4950,hdsjfh213,true,2021-11-11 11:11:00,TL#200;DOLAR#2000
+ahmed,ulas,180,ahmed34,123456,true,2020-08-19 12:11:00,TL#20000;DOLAR#33440
+ayse,mare,165,ayseare,123456,true,2011-11-11 11:11:00,TL#200;DOLAR#2000
+katmer,kulak,177,katmerk,123456,false,2010-10-10 22:11:00,TL#200;DOLAR#2000
+kemal,kulak,190,katmerk,123456,2010-10-10 22:11:00,TL#200;DOLAR#2000
